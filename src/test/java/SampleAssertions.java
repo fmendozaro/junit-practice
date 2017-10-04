@@ -15,4 +15,16 @@ public class SampleAssertions {
         assertArrayEquals("failure - byte arrays are not the same", expected, actual);
     }
 
+    @Test
+    public void testAssertEquals(){
+        assertEquals("They are not equals", "text", "text");
+    }
+
+    @Test
+    public void testAssertFalse(){
+        assertFalse("Should be true", true);
+    }
+
+
+
 }
