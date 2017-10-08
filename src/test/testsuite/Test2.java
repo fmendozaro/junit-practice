@@ -3,7 +3,7 @@ import org.junit.Test;
 
 public class Test2 {
     @Test
-    public static void testHWMessage(){
+    public void testHWMessage(){
         String hello = "Hello test";
         System.out.println("Suite Test2 is executing...");
         Assert.assertNotNull(hello);
