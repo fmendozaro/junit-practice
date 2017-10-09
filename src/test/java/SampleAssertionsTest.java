@@ -2,9 +2,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class SampleAssertions {
+public class SampleAssertionsTest {
 
-    public SampleAssertions(){
+    public SampleAssertionsTest(){
 
     }
 

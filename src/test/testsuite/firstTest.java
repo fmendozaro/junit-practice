@@ -1,11 +1,11 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class Test1 {
+public class firstTest {
     @Test
     public void testPrintMessage(){
         int num = 5;
-        System.out.println("Suite Test1 is executing...");
+        System.out.println("Suite firstTest is executing...");
         Assert.assertEquals(5, num);
     }
 }
