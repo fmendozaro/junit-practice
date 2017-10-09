@@ -1,10 +1,6 @@
-package main.calculator;
+package calculator;
 
 public class Calc {
-
-    public static void main(String[] args) {
-
-    }
 
     public double sum(double[] nums){
         double sum = 0;

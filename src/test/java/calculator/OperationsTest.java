@@ -1,6 +1,5 @@
 package calculator;
 
-import main.calculator.Calc;
 import org.junit.*;
 import static org.junit.Assert.*;
 
